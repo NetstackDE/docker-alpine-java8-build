@@ -1,4 +1,4 @@
-![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/netstack/alpine-java8-build)
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/netstack/docker-alpine-java8-build)
 ![GitHub](https://img.shields.io/github/license/NetstackDE/docker-alpine-java8-build)
 
 # docker-alpine-java8-build
