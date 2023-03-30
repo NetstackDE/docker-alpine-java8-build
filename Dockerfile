@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:3.17.3
 MAINTAINER Andreas Pfeiffer - Netstack <pfeiffer@netstack.de>
 
 #Install JAVA and Gradle 
